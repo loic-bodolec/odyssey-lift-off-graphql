@@ -19,12 +19,6 @@ To get started:
 
 This will start the GraphQL API server.
 
-To check the **final** stage of the server, with all of the steps and code completed, checkout the `final` branch by running the following command in your terminal:
-
-```bash
-git checkout final
-```
-
 ## Getting Help
 
 For any issues or problems concerning the course content, please refer to the [Odyssey topic in our community forums](https://community.apollographql.com/tags/c/help/6/odyssey).
